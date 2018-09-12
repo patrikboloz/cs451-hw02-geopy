@@ -1,6 +1,6 @@
 # CS 451/551 HW 02 Computing Geodisic Distance
 
-## Due: Friday Sept 14 before 11p
+## Due: Monday Sept 17 before 11a
 Write a command line utility in Python that computes the geodisic distance between two addresses that are input on the terminal. Sample interaction:
 
 ```python
