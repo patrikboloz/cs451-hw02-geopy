@@ -24,12 +24,11 @@ c. Research the geopy documentation (https://geopy.readthedocs.io/en/stable/) to
 
 2. Next, you will add:
 
-a. A requirements.txt file with the necessary dependencies for the application
+a. A requirements.txt file with the necessary dependencies for the application. Generate this file with ```pip freeze```
 
 b. Your python script (source code) file containing your application
 
-3. Submission for this assignment is met when you add, commit, and push your changes to your remote repository.
-
+3. Submission for this assignment is met by virtue of it being updated on github.
 
 ## Sample basic usage of geopy to locate an address using OpenStreetMap data from Nominatum:
 
