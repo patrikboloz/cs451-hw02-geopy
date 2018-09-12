@@ -15,22 +15,20 @@ b. geopy has a connector to Nominatum for accessing geodata (http://nominatim.or
 
 c. Research the geopy documentation (https://geopy.readthedocs.io/en/stable/) to learn how you might compute distance from to geo location objects.
 
-d. You will create the following for this assignment:
+## What to turn in?
 
-1. A root project folder containing three files:
+1. You will need to fork this repository (containing this readme.md file) to your GitHub account then clone your forked copy to your development machine.
 
-A requirements.txt file with the necessary dependencies for the application
+2. Next, you will add:
 
-Your python script (source code) file
+a. A requirements.txt file with the necessary dependencies for the application
 
-This readme.txt
-
-2. You will need to fork this repository (containing this readme.txt file) to your GitHub account then clone your forked copy to your development machine. 
+b. Your python script (source code) file containing your application
 
 3. Submission for this assignment is met when you add, commit, and push your changes to your remote repository.
 
 
-Sample basic usage of geopy to locate an address using OpenStreetMap data from Nominatum:
+## Sample basic usage of geopy to locate an address using OpenStreetMap data from Nominatum:
 
 ```python
 from geopy.geocoders import Nominatim
