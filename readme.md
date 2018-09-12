@@ -37,20 +37,22 @@ b. Your python script (source code) file containing your application
 ### General work pattern using git
 
 1. Get a repo locally:
-    > git clone <repo url>
+    
+```git clone <repo url>```
 
-> code - edit files, create files, etc..
+... code - edit files, create files, etc..
 
 Add changes to the repo
-> git add -A
+
+``` git add -A```
 
 Commit changes to the repo
 
-> git commit -m 'description of the changes'
+```git commit -m 'description of the changes'```
 
 Push changes to remote repo (E.g., GitHub)
 
-> git push origin master
+```git push origin master```
 
 ## Sample basic usage of geopy to locate an address using OpenStreetMap data from Nominatum:
 
