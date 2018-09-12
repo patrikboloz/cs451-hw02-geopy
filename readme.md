@@ -22,7 +22,7 @@ c. Research the geopy documentation (https://geopy.readthedocs.io/en/stable/) to
 
 1. You will need to fork (use button on github) this repository (containing this readme.md file) to your GitHub account then clone your forked copy to your development machine.
 
-```$> git clone <Your new repository url here>
+```$> git clone <Your new repository url here>```
 
     More about fork: https://help.github.com/articles/fork-a-repo/
 
