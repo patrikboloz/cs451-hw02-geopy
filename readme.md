@@ -10,13 +10,19 @@ Mile High, 1701, Bryant Street, Jefferson Park, Denver, Denver County, Colorado,
 You can choose which python packages you want to use to do geographic computations but I suggest the following:
 
 a. Use the geopy package (https://pypi.org/project/geopy/)
+
 b. geopy has a connector to Nominatum for accessing geodata (http://nominatim.org/)
+
 c. Research the geopy documentation (https://geopy.readthedocs.io/en/stable/) to learn how you might compute distance from to geo location objects.
+
 d. You will create the following for this assignment:
 
 1. A root project folder containing three files:
+
 A requirements.txt file with the necessary dependencies for the application
+
 Your python script (source code) file
+
 This readme.txt
 
 2. You will need to fork this repository (containing this readme.txt file) to your GitHub account then clone your forked copy to your development machine. 
