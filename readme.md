@@ -1,11 +1,12 @@
 Write a command line utility in Python that computes the geodisic distance between two addresses that are input on the terminal. Sample interaction:
 
+```python
 >>Enter starting location: 1314 chavez st., las vegas, nm
 >>Enter starting location: 1701 bryant st, denver, co
 Distance between 1314, Chavez Street, Las Vegas, San Miguel County, New Mexico, 87701, USA and
 Mile High, 1701, Bryant Street, Jefferson Park, Denver, Denver County, Colorado, 80204, USA is
 286.802274959 miles
-
+```
 You can choose which python packages you want to use to do geographic computations but I suggest the following:
 
 a. Use the geopy package (https://pypi.org/project/geopy/)
@@ -25,6 +26,7 @@ This readme.txt
 
 Sample basic usage of geopy to locate an address using OpenStreetMap data from Nominatum:
 
+```python
 from geopy.geocoders import Nominatim
 
 # Create a geolocator object to access geo data using Nominatum
@@ -44,4 +46,4 @@ print(location.longitude)
 
 # View the Location object API
 help(location)
-
+```
