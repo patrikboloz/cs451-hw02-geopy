@@ -24,7 +24,7 @@ c. Research the geopy documentation (https://geopy.readthedocs.io/en/stable/) to
 
 ```$> git clone <Your new repository url here>
 
-> More about fork: https://help.github.com/articles/fork-a-repo/
+    More about fork: https://help.github.com/articles/fork-a-repo/
 
 2. Next, you will add in your local working copy:
 
@@ -37,7 +37,7 @@ b. Your python script (source code) file containing your application
 ### General work pattern using git
 
 1. Get a repo locally:
-> git clone <repo url>
+    > git clone <repo url>
 
 > code - edit files, create files, etc..
 
